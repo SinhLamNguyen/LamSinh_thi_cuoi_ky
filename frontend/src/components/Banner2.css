@@ -1,0 +1,10 @@
+.banner2 {
+    display: 'flex';
+    flex-direction: 'column';
+    width: '100%';
+    overflow-x: 'scroll';
+    white-space: 'nowrap';
+    height: 'auto';
+    background-color: '#DD74F7';
+    margin: 10px 100px;
+}

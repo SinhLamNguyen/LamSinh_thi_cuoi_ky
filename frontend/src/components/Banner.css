@@ -1,0 +1,15 @@
+.banner {
+    background: #4F6FFF;
+    padding: 10px;
+    text-align: center;
+    margin: 10px 180px;
+  }
+  
+  .banner-title {
+    font-size: 32px;
+    margin: 0;
+  }
+  
+  .banner-description {
+    font-size: 18px;
+  }
